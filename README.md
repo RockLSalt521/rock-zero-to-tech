@@ -166,7 +166,7 @@ sudo systemctl reload nginx            # 再让它重读
 | 键 | 说明 | 本地 | 线上 |
 | --- | --- | --- | --- |
 | `NEXT_PUBLIC_API_BASE_URL` | 后端接口地址 | `http://localhost:8000` | **留空**——前后端同源，代码里走相对路径 |
-abc
+
 
 **后端**：`backend/.env`
 
